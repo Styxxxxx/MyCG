@@ -1,1 +1,0 @@
-testrun.sh: 5: testrun.sh: opt/caffe/build/tools/caffe: not found
